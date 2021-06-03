@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Regular and irregular thoughts in poets and orators</title>
+         </titleStmt>
+         <extent>Approx. 43KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58404</idno><idno type="EEBO-CITATION">12824629</idno>
+  <idno type="VID">94242</idno>
+  <idno type="EEBO-PROQUEST">2240961775</idno>
+  
+            <idno type="STC">Wing R760</idno>
+            <idno type="STC">ESTC R9686</idno>
+            <idno type="OCLC">12824629</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58404)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 776:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Regular and irregular thoughts in poets and orators</title>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hartley ..., D. Brown ..., Jos. Fox ..., G. Huddleston ..., R. Wellington ..., A. Bell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: prelim. p. [2].</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Poetry --  History and criticism.</term>
+               <term type="topical_term">Thought and thinking.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94242:1"/>
+            <p>Regular and Irregular THOUGHTS IN <hi>Poets</hi> and <hi>Orators:</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Hartley</hi> over-against <hi>Gray's Inn</hi> in <hi>Holborn, D. Brown</hi> without <hi>Temple-Bar; Jos. Fox</hi> in <hi>Westminster-Hall; G. Huddleston</hi> at the <hi>Blackmoors Head</hi> near <hi>Exeter Change</hi> in the <hi>Strand; R. Wel<g ref="char:EOLhyphen"/>lington</hi> at the <hi>Lute</hi> in St. <hi>Pauls</hi> Church-Yard; <hi>A Bell</hi> at the <hi>Bible</hi> and <hi>Cross-Keys</hi> near the <hi>Royal-Exchange</hi> in Cornhil. 1697.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:94242:2"/>
+            <head>
+               <hi>Books Printed and sold by</hi> John Hartley, D. Brown, Jos. Fox, G. Huddleston, R, Welling<g ref="char:EOLhyphen"/>ton, <hi>and</hi> A. Bell.</head>
+            <p>THe Blasphemous <hi>Socinian</hi> Heresie disproved and confuted, <hi>&amp;c.</hi> with Animadversions on a late Book call'd, Christianity not Mysterious: Dedicated to both Houses of Parliament. By <hi>J. Gailhard,</hi> Gent.</p>
+            <p n="2">2. The excellency and praeheminence of the Law of England, above all other Human Laws in the World. Asserted in a learned Reading upon the Sta<g ref="char:EOLhyphen"/>tute of 35 <hi>H.</hi> 8, <hi>cap.</hi> 6. concerning Tryals by Jury of 12 Men, and <hi>Tales de Circumstantibus.</hi> By <hi>Th. Williams.</hi> With (1.) Mr. <hi>Risden</hi>'s Reading upon the Statute of 21 <hi>H.</hi> 8. <hi>cap.</hi> 19. of Avowries. (2.) Judge <hi>Hale</hi>'s Opinion in some select Cases. (3.) Certain Cases which have been formerly Mooted by the Society of <hi>Greys-Inn.</hi>
+            </p>
+            <p n="3">3. The Modern Conveyancer: or, Conveyancing Improv'd. Being a choice Collection of Presidents on most Occasions: By the greatest Hands of the present Age; <hi>&amp;c.</hi> 2d Edition enlarged.</p>
+            <p n="4">4. <hi>Ʋtopia:</hi> Written in Latin by Sir <hi>Thomas More:</hi> Translated into English.</p>
+            <p n="5">5. A view of the Admiral Jurisdiction. <hi>&amp;c.</hi> For the regulation &amp; Government of Merchants, Masters of Ships, &amp; Marriners, <hi>&amp;c,</hi> By <hi>John Godolphin,</hi> LL. D.</p>
+            <p n="6">6. <hi>Verdicts of the learned concerning</hi> Virgil <hi>and</hi> Homer<hi>'s Heroic Poems.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:94242:2"/>
+            <head>
+               <hi>Regular</hi> and <hi>Irregular</hi> THOUGHTS In Poets and Orators. I. PART.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Of Thoughts in general.</head>
+               <p>THoughts are natural agitations of the Mind on any subject; whereby we first of all gaze at, consider, muze upon, and converse with those Images of Things which our Senses for the most part orignially represent to our Fancies; and our Fancies from them paint forth in our Minds. There are Two sorts of Thoughts; those of the <hi>Ʋnderstan<g ref="char:EOLhyphen"/>ding,</hi> and those of the <hi>Will:</hi> Those of the <hi>Ʋnderstan<g ref="char:EOLhyphen"/>ding</hi> are Fourfold, according to the Four Parts of <hi>Logick;</hi> Perception, Judgment, Ratiocination, and Method. But as for the Thoughts of the <hi>Will,</hi> they admit of so many Modifications and Determinations, that they cannot conveniently be brought into order.</p>
+               <pb n="2" facs="tcp:94242:3"/>
+               <p>Again, Thoughts are distinguished in sundry re<g ref="char:EOLhyphen"/>gards: (1.) In regard of their <hi>Morality;</hi> good or evil Thoughts: (2.) In regard of their <hi>Quality,</hi> as certain and doubtful Thoughts: (3.) Some are Speculative and others Practick: (4.) In regard of the <hi>Occasion;</hi> some are quiet, and some trouble<g ref="char:EOLhyphen"/>som: (5.) Some pat, and others unfit: (6.) In regard of <hi>Time,</hi> some are of the Day, and some of the Night: (7.) In regard of their <hi>success,</hi> some are lucky, and some unsuccessful: (8.) In regard of their <hi>manner,</hi> some are Ingenious and Witty, others Odd and Vitious: and of these latter sort it is that I am about to speak, without pretending to pre<g ref="char:EOLhyphen"/>scribe Laws to any, but leave every one at liberty to think as they please.</p>
+               <p>The Mind of Man is naturally active and prone to Thoughts: In a moment, with the flight of a Thought, it mounts from Earth to Heaven, and back again from age to age, from present to future; like Light<g ref="char:EOLhyphen"/>ning it shoot's from East to West, vanishing in appea<g ref="char:EOLhyphen"/>rance, It requires then no little skill to bound the ramble and excursions of our Thoughts; which extend them<g ref="char:EOLhyphen"/>selves even to Things that are not, that have no other Being but what they borrow from the Poets Fancy, by a tumultuary compounding of Notions instead of Real; can create fictitious Objects for their entertain<g ref="char:EOLhyphen"/>ment, and divert themselves with <hi>Chimera's</hi> of their own Creation, as with the most real and substantial B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ings.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="3" facs="tcp:94242:3"/>
+               <head>
+                  <hi>CHAP. II</hi> The Nature and Division of Regular Thoughts.</head>
+               <p>REgular Thoughts in Poets and Orators, are witty, lively Agitations of the Mind, elegantly adapted to the subject: They contain much Sense in few Words, and are proper only to the Works of the Mind, to Poesie and Eloquence, <hi>&amp;c.</hi> They are Dia<g ref="char:EOLhyphen"/>monds, whose rich Substance enhances their price more than their <hi>Brillant.</hi> They are, I say, pointed Diamonds, not yet set; rich Marble, not yet cut; fair Statues, not yet plac'd. <hi>Seneca</hi> and <hi>Macrobius</hi> call pleasing <hi>Sophisms;</hi> what we call <hi>Wit,</hi> or our <hi>Eng<g ref="char:EOLhyphen"/>lish Apollo</hi> calls <hi>Propriety of Thoughts and Words:</hi> the Italians <hi>Vivacities of the Mind;</hi> and the Spaniards <hi>sharpness. Aristotle</hi> brings almost all the Art of think<g ref="char:EOLhyphen"/>ing Wittily, to the <hi>Metaphor,</hi> as the <hi>light of the mind. Comte Tesauro</hi> holds, that witty Expressions are but Figured <hi>Enthymemas</hi> which please the mind; because the sentence concluded consists of contraries, like Musick made, of skilful Discords; such as <hi>wanton mo<g ref="char:EOLhyphen"/>desty, learned Igno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ance.</hi>
+               </p>
+               <pb n="4" facs="tcp:94242:4"/>
+               <p>The Doctrin, or Anatomy of ingenious Thoughts may be brought to these Three Heads; their <hi>Substance,</hi> their <hi>Ornaments,</hi> and their <hi>Vices.</hi>
+               </p>
+               <p n="1">I. The essential Substance of an ingenious Thought is to be True and Natural.</p>
+               <p n="2">II. The main Ornaments are Four; noble, plea<g ref="char:EOLhyphen"/>sing, delicate, and clear.</p>
+               <p n="3">III. But out of an affectation of too much Wit, in<g ref="char:EOLhyphen"/>genious Thoughts often become Irregular and Visci<g ref="char:EOLhyphen"/>ous, that is to say, quite contrary to the former Con<g ref="char:EOLhyphen"/>ditions, <hi>False, Swell'd, Affected, unrefin'd</hi> and <hi>Obscure.</hi>
+               </p>
+               <p>This is the Division of the ensuing Treatise.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> Of True and Natural Thoughts.</head>
+               <div n="1" type="section">
+                  <head>I.</head>
+                  <p>TRuth is the first Essential Condition, and as it were the Ground of Ingenious and Regular Thoughts. Nothing in reality is fine, but what is True; Truth only is lovely even in Fables. All Persons love Truth, and feel it within themselves: So that when we
+<pb n="5" facs="tcp:94242:4"/> read what is true, 'tis neither the Book nor the Au<g ref="char:EOLhyphen"/>thor that makes us find it so, but rather somthing we carry within our selves, which is an emanation of eternal Light and Truth. Thus, when we read a Passion we find within our selves the Truth of what we read. Christs Instructions begin by these words: <hi>I say to you in truth, Luke</hi> 4, 15.</p>
+                  <p>Our Thoughts are <hi>True</hi> when they represent things faithfully; and they are more or less true, as they are more or less conformable to the Object. The most beautiful Thoughts are Irregular, Unfit, and Vitious; or rather those that pass for Beautiful, and which seem such, but are not so in reality, if this Ground is wanting.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>II.</head>
+                  <p>A full conformity with the Object, is what we call <hi>exactness of Thought;</hi> that is to say, that as our cloaths are exactly fitted, when they suite well to our Bodies, and are in all respects fit for the Person that wears them: So likewise are thoughts <hi>exact,</hi> when they are pat to the Things they represent. Thus, an <hi>exact Thought,</hi> properly speaking, is a Thought true in all respects. Thus says <hi>Ausonius</hi> excellently well of <hi>Dido.</hi>
+                  </p>
+                  <q>
+                     <l>Infelix Dido nulli benè nupta Marito:</l>
+                     <l>Hoc pereunte fugis: hoc fugiente peris.</l>
+                  </q>
+                  <pb n="6" facs="tcp:94242:5"/>
+                  <p>
+                     <hi>Lucan</hi> says, 'Tis a great misfortune to overcome in a Civil War:
+<q>Ʋsquè adeò miserum est civili vincere bello.</q>
+                  </p>
+                  <p>A happy Man knows not whether he is beloved.</p>
+                  <q>— Felix se nescit amari.</q>
+                  <p>But it belongs not to every one to think thus <hi>ex<g ref="char:EOLhyphen"/>actly.</hi> To that purpose, a Man must have his Wit rightly set in his Brain, and be of sound Judg<g ref="char:EOLhyphen"/>ment.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>III.</head>
+                  <p>Truth is consistant with Figured Speeches, such as Metaphors, Equivocals, Ironies, &amp; Hyperbolies well managed; as, <hi>burning with Love; whiter than Snow,</hi> &amp;c.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>IV.</head>
+                  <p>To think well we must imitate Nature, which Painters follow close. Now I understand by <hi>Natural</hi> in matter of Thoughts, that which is not far fetched, which the nature of the Matter offers of it self, and arises out of the Subject it self. I understand I know not what kind of Beauty, which is plain with<g ref="char:EOLhyphen"/>out
+<pb n="7" facs="tcp:94242:5"/> Art. One would think that a natural Thought should come to every one; one would think we had it in our head before we read it. It seems easie to be found, and cost nothing, so soon as we meet with it. It some sort it comes less from the mind of him that thinks, than from the thing whereof he speaks. Fi<g ref="char:EOLhyphen"/>nally, a Natural Thought resembles in some sort a Living Spring, rising in a Garden, and not brought thither by Art.</p>
+                  <p>The perfection of a Natural Thought comes usually from a pure Expression, and an easie Turn.</p>
+                  <p>There is the same difference between a natural and flat Thought, as between a good Sauce, and one that is high season'd with Pepper &amp; Salt. There is difference between a Natural Thought, I say; as in this; <hi>Lu<g ref="char:EOLhyphen"/>cinius was reveng'd of Fortune by the Invectives he made against her;</hi> And one that is not so, as in this other; <hi>Man's blood to be reveng'd of Iron its mortal Enemy;</hi> which helps to shed it; <hi>makes it Rust,</hi> says <hi>Pliny; â ferro Sanguis Humanus se ulciscitur.</hi> This revenge at<g ref="char:EOLhyphen"/>tributed to Blood is not Natural.</p>
+               </div>
+               <div n="5" type="section">
+                  <head>V.</head>
+                  <p>Some Thoughts are not only True and Natural, but <hi>lively</hi> also; such are these of <hi>Ovid</hi> representing
+<pb n="8" facs="tcp:94242:6"/> his misfortunes, and how tedious Time was to him in his Affliction.</p>
+                  <q>
+                     <l>Sum miser; haec brevis est nostrorum summa laborum:</l>
+                     <l>Cumque meis curis omnia longa facit.</l>
+                  </q>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Of noble, strong, magnificent Thoughts.</head>
+               <p>TRuth is not enough in matter of ingenious Thoughts, there must also be added somthing that's extraordinary, and which strikes the Mind with that which is lofty, wonderful, and <hi>ornamental.</hi> The sublime, great, and majestick Thought, is that which transports the Mind to it. There are chiefly two sorts of noble Thoughts: First, those which re<g ref="char:EOLhyphen"/>late to things belonging to God: Next, those which belong to Men <hi>Tacitus and Tasso,</hi> are the richest of Authors in masculine Thoughts</p>
+               <div n="2" type="section">
+                  <head>II.</head>
+                  <p>Holy <hi>Scripture</hi> is a stock of sublime Thoughts re<g ref="char:EOLhyphen"/>lating to God; as these, <hi>I am that I am. Let Light
+<pb n="9" facs="tcp:94242:6"/> be made, and Light was made.</hi> Both which, tho seem<g ref="char:EOLhyphen"/>ingly plain in terms, yet give they a majestick No<g ref="char:EOLhyphen"/>tion of Gods Power and Existence. There's much loftiness also in what a <hi>Greek</hi> Father says; <hi>That Chri<g ref="char:EOLhyphen"/>stianity</hi> is an <hi>imitation of the Divine Life;</hi> And a <hi>Latin</hi> Father; <hi>That 'tis a Godlike Revenge, to love our Ene<g ref="char:EOLhyphen"/>mies.</hi>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>III.</head>
+                  <p>Next, the sublimity of Thought arises from things belonging indeed to Men, but things which pass for great and illustrious, such as Power, Beauty, Wit, Courage, Victories, Triumph, and the like; or from Men's excelling, either in Arts or History. Thus <hi>Tasso</hi> says of a <hi>Sarazin:</hi> That <hi>he threatned Chri<g ref="char:EOLhyphen"/>stians, tho dead;</hi> that is; there remained in the face of the dead <hi>Barbarian,</hi> a threatning Counte<g ref="char:EOLhyphen"/>nanceal.</p>
+                  <p>Again, when <hi>Parmenio</hi> made to <hi>Alexander</hi> some mean and Self-Interested proposals; <hi>If I mistake not,</hi> reply'd that Hero, <hi>I am a King and not a Merchant, Me, non Mercatorem memini esse, sed Regem. Q. Cur<g ref="char:EOLhyphen"/>tius.</hi> Methinks this answer was very Heroical.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>IV.</head>
+                  <p>Some Thoughts are not only noble and lofty, but
+<pb n="10" facs="tcp:94242:7"/>
+                     <hi>magnificent</hi> also; as this of a modern Speaking to a great King; <hi>What the Hills have that's most solid and lofty,</hi> says he, <hi>and what the Thunder has most bright and dreadful, wou'd not express enough, neither the vastness of your Soul, nor the activity of your Mind.</hi>
+                  </p>
+                  <p>This Thought of <hi>Tacitus</hi> is <hi>strong. Tiberius,</hi> says he, few days before his death, recovering out of a Swoon, feign'd, as much as he could, that he was well; hereupon <hi>Tacitus</hi> says, <hi>Jam Tiberium corpus, jam vives, mundum dissimulatio deserebat.</hi>
+                  </p>
+                  <p>
+                     <hi>Demosthenes</hi> speaking of Valliant Souldiers, says; <hi>That the courage of the Souldiers who were killd in fight<g ref="char:EOLhyphen"/>ing bravely, were the Soul of</hi> Greece.</p>
+                  <p>The glory of honest Man unjustly accused, and layden with Irons, is no way impair'd by the dark<g ref="char:EOLhyphen"/>ness of the Hole; says <hi>Seneca:</hi> He takes away from the Prison it self, what makes it Infamous: <hi>Carcerem intravit, ignominiam de loco detracturus.</hi>
+                  </p>
+               </div>
+               <div n="5" type="section">
+                  <head>V.</head>
+                  <p>
+                     <hi>Comparisons</hi> well chosen, and drawn from Matter naturally Great, always raise the noblest Thoughts. Thus <hi>Longinus</hi> compares <hi>Demosthenes</hi> to a Storm, and to a Thunderbolt which makes havock.</p>
+               </div>
+               <div n="6" type="section">
+                  <head>VI.</head>
+                  <p>
+                     <hi>Silence</hi> somtimes expresses the Sentiments of a ge<g ref="char:EOLhyphen"/>nerous Soul; as the silence of <hi>Ajax,</hi> scorning to
+<pb n="11" facs="tcp:94242:7"/> reply to <hi>Ʋlysses</hi>'s base submission; and has somthing in it greater, than what can be exprest.</p>
+               </div>
+               <div n="7" type="section">
+                  <head>VII.</head>
+                  <p>On the contrary, the <hi>strength of the Expression</hi> con<g ref="char:EOLhyphen"/>tributes somtimes to the sublimness of a Thought, of which Scripture has rich Examples; in the fall of the Wicked; which is greater than the destruction of <hi>Troy; Rome,</hi> or <hi>Carthage.</hi> Thus, <hi>I have seen the wicked spreading himself like a green Bay Tree: yet he passed away, and loe he was not; I sought him, but he could not be found.</hi> Psalm 37, 35. <hi>From the Lords sight earth and heaven fled,</hi> Revel. 20, 11.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Of pleasing, agreeable Thoughts.</head>
+               <div n="1" type="section">
+                  <head>I.</head>
+                  <p>ORnamental Thoughts of the next kind; are <hi>plea<g ref="char:EOLhyphen"/>sing</hi> ones, which somtimes surprize us much as the sublime ones do. Noble Thonghts indeed please, because they have somthing in them which charms the Mind; whereas the others please, because
+<pb n="12" facs="tcp:94242:8"/> agreeable by their Nature: And what is so charm<g ref="char:EOLhyphen"/>ing in them, is as in certain Pictures, somthing that is soft, tender, and graceful. 'Tis partly that <hi>molle atque facetum,</hi> which <hi>Horace</hi> gives to <hi>Virgil,</hi> and which consists in I know not what gracefulness, which we cannot define in general, and yet whereof there are several sorts.</p>
+                  <p>Their <hi>delightfulness</hi> may arise according to <hi>Deme<g ref="char:EOLhyphen"/>trius,</hi> from the nature of Objects which please of themselves; <hi>Sunt etiam nonnullae venustates in rebus;</hi> such as are Flowers, Light, Fair Days, and all things that flatter the Senses. The Works of Monsieur <hi>Voiture</hi> are full of pleasing Thoughts. Thus, speak<g ref="char:EOLhyphen"/>ing of a Princess, says he; <hi>Having past through a Flower Garden, and spacious walks full of Orange Trees, she came at length to a Grove, into which light had not entred, but as it entred with her.</hi>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>II.</head>
+                  <p>Ingenious <hi>Visions</hi> cause pretty Thoughts. <hi>Marini</hi> says in one of his <hi>Idyls,</hi> that <hi>after the death of</hi> Orpheus, <hi>Bees were seen to suck the strings of his Lyre.</hi> Doubt<g ref="char:EOLhyphen"/>less, they fancied to find in those strings the taste of their Honey; and indeed, what we call Melody, is a <hi>Greek</hi> word, which signifies a Song season'd with Honey.</p>
+                  <pb n="13" facs="tcp:94242:8"/>
+                  <p>If the Doctrin of <hi>Transmigration</hi> were credible, says another Poet, I would believe, that the famous Musicians of Antiquity, <hi>Musaeus, Amphion, Orpheus,</hi> and <hi>Arion,</hi> return in the Spring, and enter into the Bodies of our <hi>Nightingals,</hi> to charm us in their Melody.</p>
+                  <p>Another Poet says, that the <hi>Nightingal</hi> is a feathe<g ref="char:EOLhyphen"/>red Voice, a flying Sound.</p>
+                  <p>What <hi>Tasso</hi> says of the Rosebud, is florid, that the less it shews it self, the more beautiful it is; and <hi>Marini</hi> calls it the Eye of the Spring.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>III.</head>
+                  <p>
+                     <hi>Comparisons</hi> well chosen, and drawn from florid &amp; delightful Matters, afford pleasing Thoughts: <hi>Thank<g ref="char:EOLhyphen"/>ful Persons are like those Fruitful Grounds, which return much more than they receiv'd.</hi>
+                  </p>
+               </div>
+               <div n="4" type="section">
+                  <head>IV.</head>
+                  <p>Fiction, or somthing Poetical in Prose, makes Thoughts agreeable, says <hi>Hermogines, Fabulae in sen<g ref="char:EOLhyphen"/>tentiis maximè afferunt suavitatem &amp; delectationem in Oratione. De Formis Orat. cap.</hi> 4. Such are <hi>Lucians Dialogues of the Dead,</hi> which have a very witty and pleasing Character.</p>
+               </div>
+               <div n="5" type="section">
+                  <pb n="14" facs="tcp:94242:9"/>
+                  <head>V.</head>
+                  <p>Lively <hi>Metaphors</hi> are of their nature Fountains of pleasing Thoughts, when not continued too long; and nothing perhaps flatters more the Mind, than the representation of an Object under a Foreign Fi<g ref="char:EOLhyphen"/>gure. We delight, says <hi>Aristotle,</hi> to behold one thing in another. Yet must we not heap up Metaphors one upon another, because so many Foreign Figures mixt together, breed confusion in the Readers mind. Thus, <hi>Voiture</hi> again says of a Princess; <hi>From her In<g ref="char:EOLhyphen"/>fancy she stole the whiteness of Snow, and from Pearls their brightness; she took the Beauty and Light of the Stars; and few days past, but she stole some Rays from the Sun, and deckt herself therewith.</hi>
+                  </p>
+               </div>
+               <div n="6" type="section">
+                  <head>VI.</head>
+                  <p>
+                     <hi>Antitheses</hi> not Affected, but well husband, please infinitely the Mind. They do much about the same effect, as Lights and Shades in Painting, or, as Basses and Trebles set with skill in Musick. As here, Life, properly speaking, is not to live, but to be in Health. <hi>Non est vivere, sed valere, Vita.</hi> Mart. Lib. 12.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="15" facs="tcp:94242:9"/>
+               <head>
+                  <hi>CHAP. VI.</hi> Of delicate and curious Thoughts.</head>
+               <p>NOW I must speak of a third kind of ornamen<g ref="char:EOLhyphen"/>tal Thoughts, which, besides pleasure, have a curious delicacy; or rather, whose curiousness, beauty, and worth, arise from their Delicacy. 'Tis hard to tell what delicacy of Thought means; for, tho we frequently speak the Word, yet have we not a clear Notion thereof. I only can say, that there are good Wits, and good Painters, who are neither fine nor delicate; such as <hi>Albertus Durer,</hi> and <hi>Ruben.</hi> The Works of <hi>Ruben</hi> have more of the fiery Genius, than of Antient Beauty; and tho there is both Life and Greatness in what he wrought, his Figures are rather course than fine. Whereas the Paint<g ref="char:EOLhyphen"/>ings of <hi>Raphael</hi> have with much Greatness, ini<g ref="char:EOLhyphen"/>mitable Gracefulness, with all the Delicacy possible. Delicacy in the Proper is easier to be de<g ref="char:EOLhyphen"/>fin'd, than in the Figur'd. If you ask me what De<g ref="char:EOLhyphen"/>licacy is, as to Perfumes, Meat, or Musick, I might perhaps satisfie you; but if you ask me what a delicate Thought is, I know not how to find words
+<pb n="16" facs="tcp:94242:10"/> to express my self! such airy Notions are hard to be exprest: all we can do, is to view them near at hand, and at several times, to attain the knowledge thereof by little and little. To frame then to our selves some notion of ingenious Delicacy, let's not content our selves to say, <hi>that a delicate Thought is the finest production of the Mind, and the Flower of Wit:</hi> For, that's to say nothing, in a matter so difficult.</p>
+               <p>A delicate curious Thought is wrapt up in few words; and the Sense contained therein, is not so plain: It seems partly to conceal itself, that we may seek after and guess it out. The words are like a thin veil through which we perceive it; and this little m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stery is, as it were, the Soul of the delicacy of Thoughts. So that it only belongs to sharp-sighted Persons, to understand the whole Sense of a delicate Thought.</p>
+               <p>I know not whether I am understood; for indeed I scarce understand my self. But <hi>Examples</hi> perhaps will clear it better than my Words.</p>
+               <p>There cannot be a more delicate Thought, than what <hi>Pliny</hi> says to his Prince: <q>Flattery having long since exhausted all the new methods of praising the Great Ones, the only that remains to celebrate your Virtues, is to dare to be silent:</q>
+                  <hi>Si de te tacere au<g ref="char:EOLhyphen"/>deamus.</hi> Panegyr.</p>
+               <pb n="17" facs="tcp:94242:10"/>
+               <p>Another said delicately to Cardinal <hi>Richlieu;</hi> as 'twas said of an antient Souldier; That he could not receive Wounds, but on the Scars he had already re<g ref="char:EOLhyphen"/>ceiv'd, <hi>neither can you be prais'd, but by Repetitions.</hi>
+               </p>
+               <div n="2" type="section">
+                  <head>II.</head>
+                  <p>Besides, the delicacy of ingenious Thoughts, there are others wherein the <hi>Affection</hi> has greater share, than the Understanding. <hi>Ovid</hi> excels in this kind: and his <hi>Heroic Epistles</hi> are full of such Thoughts; which Passion makes delicate. Nor does <hi>Catullus</hi> yield to <hi>Ovid</hi> in this point: For instance; <q>I shall never see you dear Brother, you that are dearer to me than Life; but I shall always love you: <hi>At certe semper amabo.</hi>
+                     </q>
+                  </p>
+               </div>
+               <div n="3" type="section">
+                  <head>III.</head>
+                  <p>The most curious Thoughts by often repeating, awake us not, and cease to be delicate and fine. 'Tis then Novelty, or a new Turn at least, which sets a gloss on a Thought.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>IV.</head>
+                  <p>Somtimes a little <hi>Allegory</hi> gives cunningly to un<g ref="char:EOLhyphen"/>derstand what we mean; but it must not be too long
+<pb n="18" facs="tcp:94242:11"/> to prove pleasing. Here is an excellent <hi>Allegory</hi> made on the <hi>Bees</hi> in <hi>Ʋrban</hi> VIII. Coat of Arms.</p>
+                  <q>
+                     <l>Mella dabunt cunctis, nulli sua spicula figent:</l>
+                     <l>Spicula nam Princeps figere nescit apum.</l>
+                  </q>
+               </div>
+               <div n="5" type="section">
+                  <head>V.</head>
+                  <p>A <hi>Reflection</hi> subtle and judicious together, helps much to the delicacy of Thought. Such is this of <hi>Tacitus</hi> on <hi>Galba</hi>'s Government. <q>He seem'd greater than a Private Man, whilst but a Private Person; and all h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ld him worthy of the Empire, had he not been Emperour. <hi>Et omnium consensu capax Imperii, nisi Imperasset.</hi>
+                     </q>
+                  </p>
+               </div>
+               <div n="6" type="section">
+                  <head>VI.</head>
+                  <p>
+                     <hi>Politick Sentences</hi> scatred in History ought above all to be Delicate, because they are to awaken the Reader and teach him somthing that is new. <hi>Stradu</hi> says, that the greatest Coward turns stout, when he perceives that he is fear'd: <hi>Crescit audacia, si se timeri sentiat.</hi>
+                  </p>
+               </div>
+               <div n="7" type="section">
+                  <head>VII.</head>
+                  <p>Broken and <hi>mysterious Thoughts;</hi> wherein there is more understood than seen, delight and surprize the
+<pb n="19" facs="tcp:94242:11"/> Mind, by keeping it in suspence: as in excellent Pic<g ref="char:EOLhyphen"/>tures, wherin the skilful always discover how the Ge<g ref="char:EOLhyphen"/>nius of the Painter went beyond Art. Thus, <hi>Lope de Vega</hi> says of a Princess alike Beautiful and Valiant; <hi>That she was</hi> Venus <hi>in Peace, and</hi> Mars <hi>in War.</hi>
+                  </p>
+               </div>
+               <div n="8" type="section">
+                  <head>VIII.</head>
+                  <p>But nothing is more contrary to true Delicacy, than to express things <hi>too much,</hi> and the great Art con<g ref="char:EOLhyphen"/>sists not to say all on certain matters; but leave others to think more than we say; <hi>quaedam non pro<g ref="char:EOLhyphen"/>lata majora videntur, &amp; potius in suspicione Relicta,</hi> says <hi>Demetrius.</hi> For, one of the surest means to please is, not so much to say and think, as to let others think and say; to give only a hint to the Reader: <hi>Nonnulla relinquenda auditori, quae suo marte colligat. De Locution;</hi> because Men are naturally in love with their own Productions.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> Of plain and intelligible Thoughts.</head>
+               <p>CLearness being a necessary ornament of Eloquence <hi>Prima est Eloquentiae Virtus, perspicuitas. Quint;
+<pb n="20" facs="tcp:94242:12"/> lib.</hi> 2. <hi>cap.</hi> 3. Ingenious and Regular Thoughts ought to be plain, clear, and easily understood. Without Light, the other Conditions are useless. Nothing is either delightful, or works upon us, but what we un<g ref="char:EOLhyphen"/>derstand plainly. For, a Thought being but a Re<g ref="char:EOLhyphen"/>presentation, which the Mind frames within it self, it ought to represent things clearly. Nay, a Thought ought to be so plain and clear, that the Reader in reading it, understand it at the same time, without musing to know the meaning thereof. That is to say, that it enter into the Mind, as Light into the Eyes, <hi>tamquam Sol in Oculos,</hi> when we mind it not. Wherefore the care of him that thinks, ought to be, not that it may be understood; but that it cannot be misunderstood. <hi>Quare, non ut intelligere possit: sed ne omnino possit non intelligere. Quintil. Lib.</hi> 8. <hi>cap</hi> 2.</p>
+               <p>But, when all's done, 'tis but little to think well, if we speak ill; nay, the finest Thoughts are useless, according to the Masters of the Art, without the <hi>or<g ref="char:EOLhyphen"/>nament of Words.</hi> On the other side, there's nothing more extravagant, than a vain Sound of Words; nay, and of the choicest too, unless grounded on substan<g ref="char:EOLhyphen"/>tial Thoughts and good Sense: <hi>Nulla utilitas cogita<g ref="char:EOLhyphen"/>tionis praeclarae est, si ei quis pulchrae locutionis non ad<g ref="char:EOLhyphen"/>diderit Ornamentum. Dyon. Hallicarnass. de Collat. Verborum.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb n="21" facs="tcp:94242:12"/>
+            <head>OF IRREGULAR THOUGHTS PART. II.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Of Irregular Thoughts in general.</head>
+               <p>IF we are not careful to govern our Thoughts ac<g ref="char:EOLhyphen"/>cording to the Rules of good Sense, and confine our selves to the bounds of Nature; we are apt to run into excess. <hi>Vitious</hi> Thoughts take the place of true ones; Truth turns to <hi>Falshood,</hi> sublime becomes <hi>swelling;</hi> Pleasing is but <hi>Affectation;</hi> Delicacy mere <hi>Refining;</hi> Light <hi>Obscurity:</hi> And these sundry sorts of Affectations are attempts of the Mind, both above its Matter and Strength, says <hi>Jul, Scaliger; Conatus
+<pb n="22" facs="tcp:94242:13"/> supra vires, &amp; supra rem. Poetica Lib.</hi> 3. <hi>cap.</hi> 37.</p>
+               <p>Attempting, I say, to be over-witty, we think ill somtimes, and make it too sublime, too pleasing, too much refin'd. For, an ornamental Thought proves Vitious in the noble Kind, when we stretch it too far: 'tis also in the agreeable Kind, when we make it more pleasing than it ought: 'Tis an excess in the Delicate kind, when we run it up to a vain subtilty, or rather, fall it into a flat <hi>Nonsense. Hoc fit, aut nimio tumore, an nimio cultu. Diomed. Gram. l.</hi> 2. According to <hi>Quintilian,</hi> The less wit we have, we strive to shew the more; as low Persons raise themselves on their feet; <hi>ut staturâ breves in digitos eriguntur;</hi> and weak Persons threaten most, <hi>&amp; plura infirmi minantur,</hi> l. 2. c. 3.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of False Thoughts.</head>
+               <div n="1" type="section">
+                  <head>I.</head>
+                  <p>A Though is False, when the Notion we conceive of an Object represents it otherwise than really it is in itself, and so destroys the very Essence and Na<g ref="char:EOLhyphen"/>ture of Things, in attempting to raise and adorn them.
+<pb n="23" facs="tcp:94242:13"/> Of this nature is what <hi>Ariosto</hi> says of one of his Hero's; That in the heat of the Fight, not perceiving that he was kill'd, <hi>he fought on still valiantly, tho dead; Et era morto.</hi> And such a false Thought is enough to spoyl a good Copy of Verses, because Reason is an enemy to Falshood.</p>
+                  <p>Yet is there great difference between Falshood &amp; <hi>Fiction.</hi> For, Fiction well ordered according to Rule and Art, agrees well with Truth. The one imitates and perfects Nature, the other spoyls and utterly destroys it. Fiction or Poetick Fables, are mere works of the Fancy: And <hi>Apollo, Parnassus,</hi> the <hi>Muses,</hi> and <hi>Pegasus,</hi> are but pleasing Fancies; yet this System suppos'd, they pass not for False among Scholars, especially wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n the Fiction is probable.</p>
+                  <p>Those who seek after Witticisms are most apt to think false, and to run into childish Conceits; what<g ref="char:EOLhyphen"/>soever matter they handle, they rather seek after glit<g ref="char:EOLhyphen"/>tring Things, than good Sense. 'Tis sure a great corruption in the Nature of Man to hunt after false Reasons, when true ones present themselves; and no<g ref="char:EOLhyphen"/>thing is more irregular, than to think False on true Historical Events.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <head>II.</head>
+               <p>What think you of some <hi>Preachers</hi> who have charm'd their Auditory even with false Conceits, and
+<pb n="24" facs="tcp:94242:14"/> trifling Witticisms; as he, who to prove that young People dye somtimes sooner than aged Persons, said, That <hi>John did outrun Peter, and came first to the Sepul<g ref="char:EOLhyphen"/>chre,</hi> John 20.4. Or like another, who preaching on Christs Agony in the Garden, said. That he sweat<g ref="char:EOLhyphen"/>ed Blood from all parts of his Body, and ought not to weep otherwise, <hi>because God is all Eye.</hi>
+               </p>
+               <div n="3" type="section">
+                  <head>III.</head>
+                  <p>Contrary to <hi>exactness,</hi> and Nature, are also cer<g ref="char:EOLhyphen"/>tain pretty, but fantastick, Thoughts, very frequent among Spanish Authors, as this of <hi>Gongora,</hi> who fancies a Nightingal singing, to have <hi>a hundred Thou<g ref="char:EOLhyphen"/>sand Nightingals singing at once in his Throat.</hi>
+                  </p>
+                  <p>Jesting indeed authorities false Thoughts, and makes them pass for true.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> Of mean, swell'd, bold, <hi>and</hi> extravagant Thoughts.</head>
+               <div n="1" type="section">
+                  <head>I.</head>
+                  <p>MEan Thoughts are directly opposite to noble and sublime ones; as this of our famous
+<pb n="25" facs="tcp:94242:14"/> Chancellour <hi>Bacon,</hi> one of the greatest Wits of this Age. <hi>Silver is like Dung, which never profits, but when spread about.</hi> There is both Truth and Wit in the Thought, but nothing noble, since the Notion of a Dunghil is mean and unpleasant.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>II.</head>
+                  <p>Swelling is Vitious, and becomes not our Thoughts, no, not even magnificent Matters, being rather a mark of weakness than strength, as we see in bloated Bodies. Thus <hi>Graciani,</hi> one of the Spanish wits, says in his <hi>Hero;</hi> that a great Heart is a <hi>Gyants Heart;</hi> but calls that of <hi>Alexander</hi> an <hi>Archiheart,</hi> in Spanish <hi>Ar<g ref="char:EOLhyphen"/>chicoracon, and in a corner thereof, all this world was at such ease, that there was still room enough for six more.</hi> Was there ever any thing farther fetch'd, or more swell'd up! This is not only False, but excessive, and beyond the Rules of exact Greatness.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>III.</head>
+                  <p>Thoughts which run on <hi>bold Hyperbolies,</hi> being false of themselves, deserve not to be put into ratio<g ref="char:EOLhyphen"/>nal Works: as one that calls <hi>Romances, Mountebanks in Paper;</hi> and another calls Ladies long Trains, <hi>Hyperbolies of Cloath</hi>
+                  </p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="26" facs="tcp:94242:15"/>
+                  <head>IV.</head>
+                  <p>
+                     <hi>Extravagant</hi> and fantastick Thoughts, are very opposite to sublime ones; as that of <hi>Ariostos Store<g ref="char:EOLhyphen"/>house</hi> in the Circle of the Moon, wherein were laid up in a Jarre, <hi>Orland</hi>'s wits, whilst he was struck mad in love of <hi>Angelica. Or land furioso, L.</hi> 3, <hi>Stanz.</hi> 73.82. Another said; <hi>the Centaure was on Horse<g ref="char:EOLhyphen"/>back on himself.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Of Affected Thoughts.</head>
+               <div n="1" type="section">
+                  <head>I.</head>
+                  <p>NOthing that's Affected is either pleasing or agree<g ref="char:EOLhyphen"/>able. Affectation consisting no less in Thoughts than Words; usually arises from the excess we aim at: And this Affectation of Thoughts is the worst of Vices in matters of Eloquence, because Men strive to avoid the others, but seek after this; <hi>Per affectationem decoris corrupta sententia. Diomed. Gramm.</hi> Lib. 2. The <hi>Italians</hi> are much of the humour of those Women who love to be courted by Men, they still will paint, tho never so beautiful, not minding, that they would
+<pb n="27" facs="tcp:94242:15"/> please better, if they studied not so much to please. <hi>Ʋnumquodque genus cum ornatur castè pudicèque, fit il<g ref="char:EOLhyphen"/>lustrius: Cum fucatur, &amp; praelinitur, fit praestigiosum. Aul. Gell. Noct. Attic. Lib.</hi> 7. <hi>cap.</hi> 14. Thus, the Farewel of <hi>Armida</hi> to <hi>Renaldo</hi> is too affected: <hi>O you,</hi> says she, <hi>who carry away part of my self, and leave the other; either take the one, or restore the other, or give death to both.</hi> Here's too much Art.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>II.</head>
+                  <p>
+                     <hi>Worn-out Thoughts</hi> by too often repeating, please no more, according to the maxim in Philosophy; <hi>Ab assuetis non fit passia.</hi> For instance, 'tis common<g ref="char:EOLhyphen"/>ly said of Great Men, that having overcom their Enemies, they have overcom themselves. Or thus, "The King has overcom Victory itself.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>III.</head>
+                  <p>
+                     <hi>Trifling Thoughts,</hi> which usually consist of <hi>Punns, Conceits,</hi> and <hi>Equivocals,</hi> dazle only the Vulgar, and impose on half-witted Persons, who are taken with Pelf and Tinsel. They are but false Diamonds, <hi>Bristol</hi> Stones; nothing costs less, or is easier to be found; all <hi>Jest-Books</hi> are full of them.</p>
+               </div>
+               <div n="4" type="section">
+                  <pb n="28" facs="tcp:94242:16"/>
+                  <head>IV.</head>
+                  <p>
+                     <hi>Pleasing Thoughts stretch'd too far,</hi> are against the Rules of Exactness. Thus <hi>Pallavicini</hi> says, <q>That <hi>Seneca</hi> perfumes his Thoughts with Amber &amp; Civet, which at length <hi>make</hi> the head ache, tho they please at first.</q> Such are Witticisms, Antitheses, &amp; Apo<g ref="char:EOLhyphen"/>strophies, spoken in the heigth of Grief. For, is it not ridiculous to say at that time, <q>I will live as an unfortunate Monster of Love, to whom an unwor<g ref="char:EOLhyphen"/>thy Life is the only punishment worthy of his im<g ref="char:EOLhyphen"/>piety.</q> The quibbles of <hi>worthy</hi> and <hi>unworthy</hi> are not proper to <hi>Tanerede's</hi> deep sorrow.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Of over-Refin'd, Subtle Thoughts.</head>
+               <div n="1" type="section">
+                  <head>I.</head>
+                  <p>ONE would think one could not be too curious nor delicate, but too much every where, is <hi>Vi<g ref="char:EOLhyphen"/>tious: Vitium est ubique quod nimium est. Quint. Lib.</hi> 8, <hi>cap.</hi> 3. Delicacy of Thoughts has its bounds, as well as the sublime &amp; pleasing. Men over-refine som<g ref="char:EOLhyphen"/>times with thinking too nicely, and then the Thought
+<pb n="29" facs="tcp:94242:16"/> degenerates into a subtilty, which stretches beyond what we call Delicacy. This subtle Refining then is an exquisite Affectation, or as an <hi>Italian</hi> calls it, <hi>a distillation of the Brain;</hi> 'tis not fineness, but oversub<g ref="char:EOLhyphen"/>tle Refining: Words are wanting to express Things so airy, we can scarce conceive them, and nothing properly can explain them but <hi>Examples.</hi> Thus a French Poet, speaking of S. <hi>Mary Magdalens</hi> Rock, says;
+<q>
+                        <l>Alambic lambrisse sans diminution,</l>
+                        <l>Lambris alambique sans interruption.</l>
+                     </q>
+                  </p>
+               </div>
+               <div n="2" type="section">
+                  <head>II.</head>
+                  <p>But I insist not on such as this, which is plainly ill, out of too much subtilty; but of these that seem good, and have somthing in them that is surprising at first. The subtle <hi>Malvezzi</hi> seeking out the reason <hi>why Novelty is pleasing,</hi> says, That mankind being necessitated to dye, behold not willingly decay'd things, which put them in mind of that unavoidable ne<g ref="char:EOLhyphen"/>cessity.</p>
+                  <p>
+                     <hi>Mamertin</hi> the Emperour, <hi>Julian's</hi> Panegyrist, speak<g ref="char:EOLhyphen"/>ing of proud Emperours, who had but contempt for their Subjects. They raise them to preferment, says he, lest they should not despise Persons honored with Dignities.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="30" facs="tcp:94242:17"/>
+                  <head>III.</head>
+                  <p>As from over-refining to <hi>Nonsense</hi> there is but a step, the passage is easie from the one to the other; and when they joyn together, 'tis nothing but bright<g ref="char:EOLhyphen"/>ness and darkness on all sides. Thus a Spaniard says; <hi>That the Crown of</hi> Spain <hi>is the Suns Zodiack on Earth.</hi>
+                  </p>
+                  <p>Again, a French Panegyrist of the late Prince of <hi>Conde,</hi> speaking of his Picture, thus; <hi>This Picture, which never having had a prim'd cloath, being as soon made as drawn, had his sweat mixt with the Enemies Blood for Colours; his Sword for Pensil; his Heart for Painter; his Designs for Draughts; and himself for Ori<g ref="char:EOLhyphen"/>ginal.</hi> I know not which to admire most, either the over-Refining or the Nonsense.</p>
+                  <p>These Thoughts must needs please those that love subtle Refining.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> Of Obscure Thoughts.</head>
+               <div n="1" type="section">
+                  <head>I.</head>
+                  <p>NOthing is more contrary to plain and intelli<g ref="char:EOLhyphen"/>gible Thoughts than Obscurity, which arises
+<pb n="31" facs="tcp:94242:17"/> chiefly from three Causes; First, From the Thought itself. Secondly, From the Expression. Thirdly, From Historical Circumstances; which latter cannot reasonably be excepted against. But I speak of that Obscurity which is in the Thought it self, whereof there are some which may well be compair'd to dark Nights, or thick Foggs, which hinder from seeing. Neither Orators nor Poets deserve to be read, when they make a Mystery of their Thoughts; They are like those Women that go mask'd in the Streets, or hide themselves under their Hoods, and will not be known; we must let them pass by, and not so much as take notice of those <hi>Apocaliptick</hi> Cypher Writers.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>II.</head>
+                  <p>As to the other <hi>Causes</hi> of Obscurity in ingenious Works, it usually arises from <hi>brevity;</hi> for, from binding up things too close, they choak or stifle them, as I may say; and this makes <hi>Tacitus</hi> so Obscure. There are certain Thoughts that cannot be under<g ref="char:EOLhyphen"/>stood without a certain number of Words. It were to be wished, we could impart our Thoughts with<g ref="char:EOLhyphen"/>out the help of Words, as Angels do; but not being pure Spirits, we are forc'd to have recourse to Lan<g ref="char:EOLhyphen"/>guage, to express what we think. I like nothing bet<g ref="char:EOLhyphen"/>ter than to say many things in few Words, provided
+<pb n="32" facs="tcp:94242:18"/> we make our selves understood; but the difficulty is to be understood; and all the Art consists to take such measures, that clearness impaires not strength, nor strength clearness.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>III.</head>
+                  <p>But on the contrary side, the Sense is often lost in the abundance of Words. For, such there are who say nothing, tho they talk much.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>IV.</head>
+                  <p>
+                     <hi>Equivocal</hi> is when the Thought has, as it were, two Faces, and we know not in which sense to take it; or are in doubt whether it be true or false. Thus <hi>Graciani</hi> speaking of the Mind, says, <hi>That the Ʋn<g ref="char:EOLhyphen"/>derstanding is the King of Attributes;</hi> meaning, that it is the predominant Perfection in Man, <hi>And he that of his Will knows to make a Sacrament, is a Sove<g ref="char:EOLhyphen"/>raign over himself;</hi> meaning, to conceal the motions of our Heart, and make a Mystery thereof to others</p>
+               </div>
+               <div n="5" type="section">
+                  <head>V.</head>
+                  <p>Another Cause of Obscurity is, when the Thought is <hi>maim'd</hi> (if may say so) and imperfectt. Me<g ref="char:EOLhyphen"/>thinks
+<pb n="33" facs="tcp:94242:18"/> such obscure and confus'd Writers, instead of their Thoughts, represent to us the <hi>Chaos.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <head>The Close.</head>
+               <p>AFter all, to Think and Write well, 'tis not enough to read choice, and excellent Authors. But in Writing we must have always before our Eyes several Persons as Witnesses, nay, as Judges of our Thoughts. Thus, to avoid false, affected, and blund'ring Thoughts, we must propose to our selves a Man of a right, natural, and found Understanding, and ask our selves, would this satisfie such a one? would this have contented Sir <hi>Philip Sydney?</hi> Or perhaps it would not be amiss if we thought of my Lord <hi>Bacon,</hi> whose Judgment was so exact, that he was not satisfied with pretty things, but would have fair and good ones.</p>
+               <p>For Noble Thoughts, we might represent to our selves <hi>Milton,</hi> whose <hi>Paradise Lost</hi> is full of such. For pleasing, delicate Thoughts, our <hi>Waller;</hi> or the French <hi>Voiture.</hi> And as for clear and intelligible Thoughts, it would not perhaps be amiss, to have in prospect some Persons not of so quick Understan<g ref="char:EOLhyphen"/>ding, and to say to our selves somtimes, would Mr.
+<pb n="34" facs="tcp:94242:19"/> such a one understand my Thoughts well? But above all, to avoid the Character of certain Persons, who dislike all Thoughts that are Natural; who seek not to adorn, but to paint Truth; to whom nothing that is proper pleases: <hi>Quid quod nihil pro<g ref="char:EOLhyphen"/>prium placet. Tull. de Orat.</hi> Finally, who think they have no wit, but when others need much to understand them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
